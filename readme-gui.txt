@@ -1,0 +1,3 @@
+Balaban Elisa-Petronela
+CIG, ID, 3
+Sisteme informatice de asistare a deciziilor (SIAD)
